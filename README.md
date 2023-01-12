@@ -1,2 +1,2 @@
-# 100-projectt-javascript-beginner
+# 100-project-javascript-beginner
 this is a simple javascript project for beginners
