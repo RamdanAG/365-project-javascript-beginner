@@ -1,2 +1,2 @@
-# 100-project-javascript-beginner
+# 365-project-javascript-beginner
 this is a simple javascript project for beginners
